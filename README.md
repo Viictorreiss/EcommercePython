@@ -4,7 +4,7 @@ Django 2.2.4 e Python 3.7.3.
 
 ### Conteúdo educacional de estudo  
 Este conteúdo NÃO foi criado por mim, é apenas um desafio para criar o e-commerce de teste, sendo
-feito no "Curso de Python 3 - do Básico ao Avançado (Completo), administrado por Luiz Otávio Miranda.
+feito no Curso de Python 3 - do Básico ao Avançado (Completo), administrado por Luiz Otávio Miranda.
 Sendo reservado todos os créditos para ele e o curso.
 
 ### Conteúdo educacional
